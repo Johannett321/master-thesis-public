@@ -1,0 +1,5 @@
+repo: MainRepo
+
+# main content of csv
+featureID,featureName,featureUrl,featureLogo,featureDescription
+mandatory3,Mandatory 3,https://github.com/Johannett321/Mandatory3,https://avatars.githubusercontent.com/u/77484858?s=200&v=4,This is mandatory assignment3 in acit
